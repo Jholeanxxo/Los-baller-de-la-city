@@ -1,0 +1,13 @@
+button{
+background-color: yellow;
+color: black;
+margin: 23px;
+padding: 24px;
+display: grid;    
+border-radius: 20px;
+font-size: 24px;
+}
+button:hover{
+    background: blue;
+    color: aqua;
+}

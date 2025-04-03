@@ -1,0 +1,28 @@
+ 
+div{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    justify-content: center;
+   display: flex;
+    
+}
+.estilos{
+    color: white;
+    margin: 15px;
+    padding: 35px;
+    justify-content: center;
+    display: flex;
+    display: space-around; 
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+justify-content: space-around;
+
+}
+body{
+    background: rgb(255, 0, 0);
+}
+
+
